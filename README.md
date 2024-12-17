@@ -1,2 +1,2 @@
 # Junkheap (unavailable)
-No need to read, terms and conditions.
+(No need to read) terms and conditions.
