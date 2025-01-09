@@ -1,2 +1,1 @@
-# Junkheap
-Proprietary Middleware
+# Junkheap (unavailable)
